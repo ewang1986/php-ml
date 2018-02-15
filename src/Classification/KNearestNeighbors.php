@@ -9,6 +9,12 @@ use Phpml\Helper\Trainable;
 use Phpml\Math\Distance;
 use Phpml\Math\Distance\Euclidean;
 
+/**
+ * Class KNearestNeighbors
+ * @package Phpml\Classification
+ *
+ * 新年快乐
+ */
 class KNearestNeighbors implements Classifier
 {
     use Trainable, Predictable;
