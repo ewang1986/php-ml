@@ -8,6 +8,8 @@ use Phpml\SupportVectorMachine\Kernel;
 use Phpml\SupportVectorMachine\SupportVectorMachine;
 use Phpml\SupportVectorMachine\Type;
 
+//其实看不懂
+
 class SVC extends SupportVectorMachine implements Classifier
 {
     public function __construct(
