@@ -131,3 +131,5 @@ PHP-ML is released under the MIT Licence. See the bundled LICENSE file for detai
 ## Author
 
 Arkadiusz Kondas (@ArkadiuszKondas)
+
+六一儿童节快乐
